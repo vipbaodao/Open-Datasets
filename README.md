@@ -1,4 +1,4 @@
-# - <!\-\- /\* Font Definitions */ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face {font-family:宋体; panose-1:2 1 6 0 3 1 1 1 1 1;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:"Segoe UI"; panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face {font-family:"\\@宋体"; panose-1:2 1 6 0 3 1 1 1 1 1;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin:0cm; margin-bottom:.0001pt; font-size:12.0pt; font-family:宋体;} h2 {mso-style-link:"标题 2 Char"; margin:0cm; margin-bottom:.0001pt; font-size:18.0pt; font-family:宋体;} p.MsoHeader, li.MsoHeader, div.MsoHeader {mso-style-link:"页眉 Char"; margin:0cm; margin-bottom:.0001pt; text-align:center; layout-grid-mode:char; border:none; padding:0cm; font-size:9.0pt; font-family:宋体;} p.MsoFooter, li.MsoFooter, div.MsoFooter {mso-style-link:"页脚 Char"; margin:0cm; margin-bottom:.0001pt; layout-grid-mode:char; font-size:9.0pt; font-family:宋体;} a:link, span.MsoHyperlink {color:#0366D6; text-decoration:none none;} a:visited, span.MsoHyperlinkFollowed {color:#954F72; text-decoration:underline;} span.2Char {mso-style-name:"标题 2 Char"; mso-style-link:"标题 2"; font-family:宋体; font-weight:bold;} span.Char {mso-style-name:"页眉 Char"; mso-style-link:页眉; font-family:宋体;} span.Char0 {mso-style-name:"页脚 Char"; mso-style-link:页脚; font-family:宋体;} .MsoChpDefault {font-family:"Calibri","sans-serif";} /* Page Definitions */ @page WordSection1 {size:595.3pt 841.9pt; margin:72.0pt 90.0pt 72.0pt 90.0pt; layout-grid:15.6pt;} div.WordSection1 {page:WordSection1;} /* List Definitions */ ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} --> 
+
 
 图像处理
 ----
@@ -88,7 +88,8 @@
 *   [分地区全球天气历史数据](https://www.wunderground.com/history/index.html)
 *   [用于生态学模型和地理信息系统的全球气候数据](http://www.worldclim.org/)
 
-**国内政府公开数据**
+国内政府公开数据
+----
 
 *   [国家数据](http://data.stats.gov.cn/)
 *   [北京市政务数据资源网](http://www.bjdata.gov.cn/)
@@ -96,7 +97,8 @@
 *   [浙江政务服务网](http://data.zjzwfw.gov.cn/)
 *   [武汉市政府公开数据服务网](http://www.wuhandata.gov.cn/whdata/index_search.action)
 
-**专利数据**
+专利数据
+----
 
 *   [中国专利数据](http://patdata.sipo.gov.cn/)
 *   [欧洲专利局数据服务](http://www.epo.org/searching-for-patents.html)
